@@ -1,1 +1,1 @@
-system.out.pringln("第一次使用,测试,你好,")!
+system.out.println("第一次使用,测试,你好,")!
